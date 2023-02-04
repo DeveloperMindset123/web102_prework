@@ -18,7 +18,7 @@ const games = ` [
   },
   {
     "name": "Zoo Tycoon: The Board Game",
-    "description": "Your zoo in a box with more than 230 Animal Meeples. A highly thematic board game experience for 1-4 players.",
+    "description": "Your zoo in a box with more than 230 Animal Meeples. A highly themat  ic board game experience for 1-4 players.",
     "pledged": 442602,
     "goal": 78480,
     "backers": 3869,
