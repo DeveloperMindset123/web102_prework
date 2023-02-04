@@ -23,18 +23,26 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='[main/Web102Prework.gif]' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Web102Prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+Challenge 1: For challenge 2 of 7, instruction told us to implement box-shadow, however, the website differed from how the website was supposed to look when box-shadow was implemented, needed to change it from 30px to 0px.
+
+Challenge 2: Struggled a lot trying to figure out the correct keyword for challenge 2 of 7, due the hints provided for the component 3 was difficult to understand due to it's wording.
+
+Challenge 3: Implementing the AddGamesToPage(games) {...} function, due to my unfamiliarity with javascript syntax as well as accessing properties within an object, however, the slack prework channel was very helpful with hinting at how I should access the object properties to be displayed and how to properly utilize template literals.
+
+Challenge 4: Implementing the filterUnfundedOnly() and filterFundedOnly() functions which used reduce. Was unsure of how to call the addGamesToPage() function and what specific parameters to use, was not aware that reduce returns an array which can then be used as the parameter for addGamesToPage() function.
+
+Challenge 5: Initially, due to novelty, the DOM properties were difficult to comprehend but with more hours spent on the prework, it became easier to understand.
 
 ## License
 
